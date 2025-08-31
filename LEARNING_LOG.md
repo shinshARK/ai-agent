@@ -18,5 +18,5 @@
 * Peeking at the final Lesson 6 solution files they went with a different approach as to print out the user prompt, but when there will be multi-turn chat i feel like my approach could be more flexible, not sure yet in the future how it's gonna work out.
 
 ### Key Takeaway 
-This chapter made me learn how to properly setup a python dev env with uv, introduced me how to make a basic LLM API Client, and how to interact with the API.
+* This chapter made me learn how to properly setup a python dev env with uv, introduced me how to make a basic LLM API Client, and how to interact with the API.
 ---
